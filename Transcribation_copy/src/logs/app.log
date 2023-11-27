@@ -1,0 +1,1 @@
+2023-11-24 11:52:12.759 | INFO     | model.pipeline.preprocessing_audio:split_audio_all:58 - spliting audio from data/audiofiles to left and right channel
